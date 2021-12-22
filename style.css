@@ -116,12 +116,12 @@ background-color: #060555;
    color: rgb(59, 56, 56);
 }
 .contacts__link:nth-child(1)::before{
-   content: url(/img/icon/phone.png);
+   content: url(img/icon/phone.png);
    position: relative;
    top: 2px;
 }
 .contacts__link:nth-child(2)::before{
-   content: url(/img/icon/mail.png);
+   content: url(img/icon/mail.png);
    position: relative;
    top: 2px;
 }
@@ -187,28 +187,28 @@ background-color: #060555;
    padding: 0 0 0 10px;
 }
 .skills__link:nth-child(1):before {
-   content: url(/img/icon/html.png);
+   content: url(img/icon/html.png);
 }
 .skills__link:nth-child(2):before {
-   content: url(/img/icon/css.png);
+   content: url(img/icon/css.png);
 }
 .skills__link:nth-child(3):before {
-   content: url(/img/icon/html.png);
+   content: url(img/icon/html.png);
 }
 .skills__link:nth-child(4):before {
-   content: url(/img/icon/sass.png);
+   content: url(img/icon/sass.png);
 }
 .skills__link:nth-child(5):before {
-   content: url(/img/icon/js.png);
+   content: url(img/icon/js.png);
 }
 .skills__link:nth-child(6):before {
-   content: url(/img/icon/code.png);
+   content: url(img/icon/code.png);
 }
 .skills__link:nth-child(7):before {
-   content: url(/img/icon/vs.png);
+   content: url(img/icon/vs.png);
 }
 .skills__link:nth-child(8):before {
-   content: url(/img/icon/github.png);
+   content: url(img/icon/github.png);
 }
 /*---------------------------------------------------------------------------------------------------------*/
 .personal__information{

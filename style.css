@@ -126,20 +126,20 @@ background-color: #060555;
    top: 2px;
 }
 .contacts__link:nth-child(3)::before{
-   content: url(/img/icon/github.png);
+   content: url(img/icon/github.png);
    position: relative;
    top: 2px;
 }
 .contacts__link:nth-child(4)::before{
-   content: url(/img/icon/code.png);
+   content: url(img/icon/code.png);
 }
 .contacts__link:nth-child(5)::before{
-   content: url(/img/icon/telegram.png);
+   content: url(img/icon/telegram.png);
    position: relative;
    top: 2px;
 }
 .contacts__link:nth-child(6)::before{
-   content: url(/img/icon/discord.png);
+   content: url(img/icon/discord.png);
    position: relative;
    top: 4px;
 }
